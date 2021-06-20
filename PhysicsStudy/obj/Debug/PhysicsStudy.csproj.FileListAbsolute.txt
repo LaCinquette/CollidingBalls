@@ -1,0 +1,10 @@
+F:\ITMO\PhysicsStudy\PhysicsStudy\bin\Debug\PhysicsStudy.exe.config
+F:\ITMO\PhysicsStudy\PhysicsStudy\bin\Debug\PhysicsStudy.exe
+F:\ITMO\PhysicsStudy\PhysicsStudy\bin\Debug\PhysicsStudy.pdb
+F:\ITMO\PhysicsStudy\PhysicsStudy\obj\Debug\PhysicsStudy.csprojAssemblyReference.cache
+F:\ITMO\PhysicsStudy\PhysicsStudy\obj\Debug\PhysicsStudy.Form1.resources
+F:\ITMO\PhysicsStudy\PhysicsStudy\obj\Debug\PhysicsStudy.Properties.Resources.resources
+F:\ITMO\PhysicsStudy\PhysicsStudy\obj\Debug\PhysicsStudy.csproj.GenerateResource.cache
+F:\ITMO\PhysicsStudy\PhysicsStudy\obj\Debug\PhysicsStudy.csproj.CoreCompileInputs.cache
+F:\ITMO\PhysicsStudy\PhysicsStudy\obj\Debug\PhysicsStudy.exe
+F:\ITMO\PhysicsStudy\PhysicsStudy\obj\Debug\PhysicsStudy.pdb
